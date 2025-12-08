@@ -32,7 +32,8 @@ while True:
     msg=input("Server > ")
     c.send(msg.encode())
 
-    ```
+ ```
+
 ## OUPUT
 <img width="1919" height="1137" alt="image" src="https://github.com/user-attachments/assets/a6cff05a-d5cb-48c4-9dea-3cd4a61fefaf" />
 
